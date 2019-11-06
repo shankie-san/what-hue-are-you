@@ -21,6 +21,8 @@ const App = () => {
   }, []);
 
   if (!loggingIn && !loggedIn) return <div>An error occurred</div>
+
+  if(!loggedIn) return <div>Loading</div>
   
   return (
     <div className="App">
