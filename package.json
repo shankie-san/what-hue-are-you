@@ -2,6 +2,7 @@
   "name": "what-hue-are-you",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://what-hue.web.app/",
   "dependencies": {
     "@babel/runtime": "^7.6.3",
     "detect-browser": "^4.8.0",
